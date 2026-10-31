@@ -1,0 +1,8 @@
+{
+  "name": "Wapas - AI Failed Payment Recovery",
+  "description": "Autonomous AI teammate that recovers failed UPI payments for Indian merchants with deterministic policy authorization and Paytm simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
